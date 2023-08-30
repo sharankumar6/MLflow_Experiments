@@ -1,0 +1,15 @@
+artifact_uri: file:///home/v-labsai-sharan-kumar/Documents/MLflow/mlruns/0/9859a7d075b84b20b6e6b29b17ba6ce1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9859a7d075b84b20b6e6b29b17ba6ce1
+run_name: thundering-sheep-384
+run_uuid: 9859a7d075b84b20b6e6b29b17ba6ce1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692591205818
+status: 1
+tags: []
+user_id: v-labsai-sharan-kumar
